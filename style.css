@@ -479,3 +479,24 @@ input:focus{
         flex-basis: 100%;
     }
 }
+
+.col-3 h3 a{
+    color: white;
+}
+
+.background{
+    background-color: #000;
+    border-radius: 36px;
+    width: 90px;
+    height: 80px;
+    margin: 15px;
+    text-align: center;
+}
+.background a{
+    margin-left: 45px;
+    margin-top: 50px;
+    text-align: center;
+}
+.background i{
+    margin-left: 3px;
+}
